@@ -7,12 +7,12 @@ This script redirects users to different URLs based on the type of device they a
 1. Upload the `redirect.php` file to your web server.
 2. Set the URLs for the Android and iPhone websites in the `$android_url` and `$iphone_url` variables, respectively.
 3. Place the following code at the top of your PHP script:
-
-```<?php
+```
+ <?php
   include 'redirect.php';
-?>```
+?>
 and also you can use html file too
-
+```
 
 ## Requirements
 
