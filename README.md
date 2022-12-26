@@ -11,8 +11,9 @@ This script redirects users to different URLs based on the type of device they a
  <?php
   include 'redirect.php';
 ?>
-and also you can use html file too
 ```
+And also you can use html file too
+
 
 ## Requirements
 
