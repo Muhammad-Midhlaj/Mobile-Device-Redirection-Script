@@ -12,7 +12,7 @@ This script redirects users to different URLs based on the type of device they a
   include 'redirect.php';
 ?>
 ```
-And also you can use html file too
+
 
 
 ## Requirements
